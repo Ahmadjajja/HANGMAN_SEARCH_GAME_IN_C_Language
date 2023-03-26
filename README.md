@@ -1,5 +1,5 @@
 # HANGMAN_SEARCH_GAME_IN_C_Language
-
+```C
  #include<iostream>
 
 #include<string.h>
@@ -67,3 +67,4 @@ int main()
     cout<<"And Loss "<<l<<" time";
 
 }
+```
